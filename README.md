@@ -6,3 +6,6 @@ About Me
 Goals for This Course
 
 My First Python Program
+```python
+print("Hello World!")
+```

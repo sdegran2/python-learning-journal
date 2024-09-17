@@ -2,6 +2,9 @@ This week I got to shake more cobwebs off my programming past.<p>
 I wrote a couple of methods for our group's madlibs programs to get input and log it<p>
 and to get input lines without the trailing '\n' that readline() returns.<p>
 IMHO readline() should have an option to not return the '\n' but c'est la vie.<p>
+In researching madlibs things I also learned about triple quotes (""") for "multi-line strings".<p>
+They are useful to make source code more readable if it has a long string (such as our story).<p>
+Basically, the newline character is represented by having no more text on a source line.<p> 
 
 Sharing the files in Google Colab seemed more cumbersome than I expected.<p>
 It's much clunkier than other Google things like Google Doc for instance.<p>

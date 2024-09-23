@@ -9,9 +9,9 @@ They are useful to make source code more readable if it has a long string (such 
 Basically, the newline character is represented by just having no more text on a source line.<p> 
 
 #### Sharing the files in ```Google Colab``` seemed more cumbersome than I expected.
-It's much clunkier than other Google things like Google Doc for instance.<p>
+It's sharing is much clunkier than other Google things like Google Doc for instance.<p>
 But we used it anyway and lived with it.<p>
-I like Jupyter Notebook better than Google Colab but have two issues with JN.<p>
+I like Jupyter Notebook better than Google Colab for Python development, but have two issues with it.
 1. A lack of file sharing (as far as I know); that makes us use Google Colab instead.
 2. A launch window automatically opens when you start but doesn't automatically close when you end.
 

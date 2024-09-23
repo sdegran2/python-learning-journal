@@ -21,4 +21,4 @@ But I'm still not so sure that the groups are really a good thing in a "101" typ
 I can see that it saves the professor a lot of time, reviewing and grading far fewer things.<p>
 And, as I mentioned last week, before the groups formed, I agree that in the "real world" you succeed or fail largely as a team.<p>
 But I think in a class like this individual effort and results should mean more than group dynamics.<p>
-**My goal is to learn Python programming skills, not team skills.**
+**After all, my goal is to learn Python programming skills, not team skills.**

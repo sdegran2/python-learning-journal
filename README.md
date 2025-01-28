@@ -10,6 +10,7 @@ I'm Steve DeGrange. I'm from Saratoga, Ca and want to learn how to code in Pytho
 1. Learn the syntax and basic flow of Python programs (conditionals, loops, data structures, etc.).
 2. Learn how to create, test and run the Python programs using GitHub and the Python interpreter.
 3. Learn to use additional development tools such as Jupiter, Anaconda, IDLE, etc.
+4. Learn more complex data structures using Python and how to apply them to analytic problems.
 
 ## My First Python Program
 ```python
